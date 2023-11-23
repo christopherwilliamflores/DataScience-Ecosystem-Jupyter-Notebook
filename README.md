@@ -10,7 +10,7 @@ Each exercise in the notebook is aimed at showcasing a particular aspect of the 
 
 ### Exercise 2 - Notebook Title
 A markdown cell with the title of the notebook using H1 style heading.
-![Screenshot](2-title.png)
+![Screenshot](img/2-title.png)
 
 ### Exercise 3 - Introduction
 An introductory markdown cell describing the purpose of the notebook.
