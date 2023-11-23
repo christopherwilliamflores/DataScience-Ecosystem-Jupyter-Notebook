@@ -57,13 +57,13 @@ A screenshot of the first page of the notebook.
 
 ## Usage
 
-To view the notebook, you can visit the following GitHub link: [DataScienceEcosystem.ipynb]([LINK_TO_YOUR_GITHUB_NOTEBOOK](https://github.com/christopherwilliamflores/DataScience-Ecosystem-Jupyter-Notebook/blob/main/DataScienceEcosystem.ipynb)).
+To view the notebook, you can visit the following GitHub link: [DataScienceEcosystem.ipynb]([https://github.com/christopherwilliamflores/DataScience-Ecosystem-Jupyter-Notebook/blob/main/DataScienceEcosystem.ipynb]).
 
 For an interactive experience, you can clone the repository and run the notebook in your local Jupyter environment.
 
 ## Author
 
-This project was completed by [Christopher William Flores Rimac]([YOUR_GITHUB_PROFILE_LINK](https://github.com/christopherwilliamflores)).
+This project was completed by [Christopher William Flores Rimac]((https://github.com/christopherwilliamflores)).
 
 
 ## Acknowledgments
