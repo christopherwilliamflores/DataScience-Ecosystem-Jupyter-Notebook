@@ -64,7 +64,7 @@ For an interactive experience, you can clone the repository and run the notebook
 
 ## Author
 
-This project was completed by [Christopher William Flores Rimac]((https://github.com/christopherwilliamflores)).
+This project was completed by [Christopher William Flores Rimac](https://github.com/christopherwilliamflores).
 
 
 ## Acknowledgments
