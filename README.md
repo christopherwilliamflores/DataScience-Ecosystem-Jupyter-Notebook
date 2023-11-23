@@ -57,7 +57,8 @@ A screenshot of the first page of the notebook.
 
 ## Usage
 
-To view the notebook, you can visit the following GitHub link: [DataScienceEcosystem.ipynb]([https://github.com/christopherwilliamflores/DataScience-Ecosystem-Jupyter-Notebook/blob/main/DataScienceEcosystem.ipynb]).
+To view the notebook, you can visit the following GitHub link: [DataScienceEcosystem.ipynb](https://github.com/christopherwilliamflores/DataScience-Ecosystem-Jupyter-Notebook/blob/main/DataScienceEcosystem.ipynb).
+
 
 For an interactive experience, you can clone the repository and run the notebook in your local Jupyter environment.
 
