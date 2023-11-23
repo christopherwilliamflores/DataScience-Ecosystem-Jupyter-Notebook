@@ -14,46 +14,46 @@ A markdown cell with the title of the notebook using H1 style heading.
 
 ### Exercise 3 - Introduction
 An introductory markdown cell describing the purpose of the notebook.
-![Screenshot](3-intro.png)
+![Screenshot](img/3-intro.png)
 
 ### Exercise 4 - Data Science Languages
 A markdown cell listing popular data science languages.
-![Screenshot](4-dslanguages.png)
+![Screenshot](img/4-dslanguages.png)
 
 ### Exercise 5 - Data Science Libraries
 A markdown cell detailing commonly used data science libraries.
-![Screenshot](5-dslibraries.png)
+![Screenshot](img/5-dslibraries.png)
 
 ### Exercise 6 - Data Science Tools Table
 A markdown cell with a table presenting key data science tools.
-![Screenshot](6-dstools.png)
+![Screenshot](img/6-dstools.png)
 
 ### Exercise 7 - Arithmetic Expression Examples
 An introduction to arithmetic expressions in Python with markdown.
-![Screenshot](7-introarithmetic.png)
+![Screenshot](img/7-introarithmetic.png)
 
 ### Exercise 8 - Arithmetic Code Execution
 A code cell where a simple arithmetic expression is evaluated.
-![Screenshot](8-multiplyandaddintegers.png)
+![Screenshot](img/8-multiplyandaddintegers.png)
 
 ### Exercise 9 - Time Conversion Code
 A code cell that converts minutes to hours.
-![Screenshot](9-hourstominutes.png)
+![Screenshot](img/9-hourstominutes.png)
 
 ### Exercise 10 - Objectives List
 A markdown cell listing the objectives covered by the notebook.
-![Screenshot](10-objectives.png)
+![Screenshot](img/10-objectives.png)
 
 ### Exercise 11 - Author Information
 A markdown cell indicating the author's name.
-![Screenshot](11-authordetails.png)
+![Screenshot](img/11-authordetails.png)
 
 ### Exercise 12 - GitHub Sharing
 The notebook is shared through a public GitHub repository.
 
 ### Exercise 13 - Notebook Screenshot
 A screenshot of the first page of the notebook.
-![Screenshot](1-notebook.png)
+![Screenshot](img/1-notebook.png)
 
 ## Usage
 
